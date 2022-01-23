@@ -1,0 +1,31 @@
+#onlineUcenje{
+    background: url("poz1.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    width: 100%;
+    padding-top: 300px;
+}
+#faxtrukcije{
+    font-size: 100px;
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(39, 36, 36);
+}
+#slika1{
+    width: 100%;
+}
+#pozadina{
+    background-color: white;
+}
+#tabela1{
+    width: 100%;
+}
+#znanje{
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
